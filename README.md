@@ -9,7 +9,7 @@ Skills
 </p>
 
 <p> 
-<img src="https://img.shields.io/badge/Blog-pink?style=flat&logo=Tistory&logoColor=#000000"/>
+<a href="https://https://ekki88.tistory.com//" target="_blank"><img src="https://img.shields.io/badge/Blog-pink?style=flat&logo=Tistory&logoColor=#000000"/></a>
 <img src="https://img.shields.io/badge/ekki88-1DA1F2?style=flat&logo=Twitter&logoColor=fff"/>
-<img src="https://img.shields.io/badge/ekki88@gmail.com-F06B66?style=flat&logo=Gmail&logoColor=fff"/>
+<a href="ekki88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ekki88@gmail.com-F06B66?style=flat&logo=Gmail&logoColor=fff"/></a>
 </p>
