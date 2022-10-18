@@ -7,8 +7,3 @@
 <img src="https://img.shields.io/badge/JavaScript-fff?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/React-fff?style=flat&logo=React&logoColor=61DAFB"/>
 </p>
-
-<p> 
-<a href="https://ekki88.tistory.com//" target="_blank"><img src="https://img.shields.io/badge/Blog-pink?style=flat&logo=Tistory&logoColor=#000000"/></a>
-<img src="https://img.shields.io/badge/ekki88@naver.com-F06B66?style=flat&logo=Gmail&logoColor=fff"/>
-</p>
